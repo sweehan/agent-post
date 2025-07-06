@@ -1,6 +1,8 @@
-# AgentPost - AI-Powered Content Automation Suite
+# AgentPost - AI-Powered Content Agent System
 
-AgentPost is a modular, AI-powered content automation system that transforms ideas into blog posts and social media content. Built with a modern ES6 architecture, it features two main applications sharing common components for maximum efficiency and maintainability.
+AgentPost is a modular, AI-powered content automation system that transforms ideas into blog posts and Instagram captions.  Built with a modern ES6 architecture, it features two main applications sharing common components for maximum efficiency and maintainability.
+
+Support for more social media platforms: It can be easily upgraded to transform ideas into social media content for other platforms, e.g. X or Linkedin.
 
 ## 🚀 Overview
 
